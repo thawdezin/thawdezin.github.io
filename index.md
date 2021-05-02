@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/thawdezin/thawdezin.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+Hello, I'm Thaw De Zin. I'm graduated from [University of Technology (Yatanarpon Cyber City)](https://www.utycc.edu.mm) – B.E (Information Science and Technology).
+I love to develop Mobile applications using `Kotlin` and `Swift`.
+I've done my university projects using so many languages such as C, C++, Java, PHP, Python and MATLAB in the field of Image, AI, Web, IoT, android, Big Data, High-performance computing, Web Scraping and Web Crawling.
+After graduated, I’ve decided to choose my career life as Mobile Developer by applying the theory and technologies that I studied in University to Mobile development. For the programming, I’ve learned so many languages, even Assembly (NASM) with compiler design and structure. But I’m in love with Kotlin and Swift. For the mobile development, I’m tightly couple with Android and SwiftUI. If I have some free time, I spent by time with Web Scraping and Crawling using Python. 
 
 ### Markdown
 
