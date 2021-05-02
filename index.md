@@ -13,17 +13,17 @@ After graduated, I’ve decided to choose my career life as Mobile Developer by 
 
 1. Self-Employed
 
-[Lan Pya Taryar](https://play.google.com/store/apps/details?id=com.thawdezin.lanpyataryar)
+  [Lan Pya Taryar](https://play.google.com/store/apps/details?id=com.thawdezin.lanpyataryar)
 
-`A Handy Mobile App for Catholic`
+  `A Handy Mobile App for Catholic`
 
 2. Junior Mobile Developer
 
-`Koe Koe Tech Co., Ltd`. (Nov 2019 to April 2021)
+  `Koe Koe Tech Co., Ltd`. (Nov 2019 to April 2021)
 
 3. Internship
 
-`Myanmar DCR Co., Ltd`. (8 weeks)
+  `Myanmar DCR Co., Ltd`. (8 weeks)
 
 ### Contact
 
