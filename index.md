@@ -1,10 +1,8 @@
 ### Hi, I'm Thaw De Zin (​သော်ဒီဇင်)
 
-#I am Mobile Developer. 
+##I am Mobile Developer. 
 
-You can use the [editor on GitHub](https://github.com/thawdezin/thawdezin.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can use the [editor on GitHub](https://github.com/thawdezin/thawdezin.github.io/edit/main/index.md) to maintain and preview the content for your website in ebuild the pages in your site, from the content in your Markdown files.
 
 Hello, I'm Thaw De Zin. I'm graduated from [University of Technology (Yatanarpon Cyber City)](https://www.utycc.edu.mm) – B.E (Information Science and Technology).
 I love to develop Mobile applications using `Kotlin` and `Swift`.
