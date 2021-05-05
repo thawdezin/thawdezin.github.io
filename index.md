@@ -24,5 +24,8 @@ After graduated, I’ve decided to choose my career life as Mobile Developer by 
 ### Contact
 
 You can reach me on my mobile number `+95 9 953 172 742`. or
-[My LinkedIn Account](https://www.linkedin.com/in/thawdezin)
 
+1. [stackoverflow](https://stackoverflow.com/cv/thawdezin)
+2. [Twitter](https://twitter.com/thawdezin25)
+3. [LinkedIn](https://www.linkedin.com/in/thawdezin/)
+4. [Instagram](https://www.instagram.com/thawdezin/)
