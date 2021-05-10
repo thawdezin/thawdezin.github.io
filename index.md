@@ -19,7 +19,7 @@ After graduated, I’ve decided to choose my career life as Mobile Developer by 
   `Koe Koe Tech Co., Ltd`. (Nov 2019 to April 2021)
 
 3. Internship
-  `Myanmar DCR Co., Ltd`. (8 weeks)
+  `Myanmar DCR Co., Ltd`. (Oct 2018 to Dec 2018)
 
 ### Contact
 
