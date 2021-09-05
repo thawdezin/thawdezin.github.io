@@ -33,3 +33,8 @@ You can reach me on my mobile number `+95 9 797 990 911`. or
 2. [Twitter](https://twitter.com/thawdezin25)
 3. [LinkedIn](https://www.linkedin.com/in/thawdezin/)
 4. [Instagram](https://www.instagram.com/thawdezin/)
+
+
+### It's another thing to know how they all work together.
+
+<video src="video.mp4" width="320" height="200" controls preload></video>
