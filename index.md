@@ -18,7 +18,7 @@ After graduated, I’ve decided to choose my career life as Mobile Developer by 
   `Koe Koe Tech Co., Ltd`. (Nov 2019 to April 2021)
   
 3. Self-Employed
-  [Lan Pya Taryar](https://play.google.com/store/apps/details?id=com.thawdezin.lanpyataryar)
+  [Lan Pya Taryar](https://play.google.com/store/apps/details?id=com.thawdezin.lanpyataryar) (လမ်းပြတာရာ)
   `A Handy Mobile App for Catholic`
 
 3. Self-Employed
