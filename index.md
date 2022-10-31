@@ -18,7 +18,7 @@ After graduated, I’ve decided to choose my career life as [Mobile Developer](h
   `Koe Koe Tech Co., Ltd`. (Nov 2019 to April 2021)
   
 3. Junior iOS Developer
-  `Myanmar High Society Co., Ltd.`. (Nov 2021 to present)
+  `Myanmar High Society Co., Ltd.`. (Nov 2021 to June 2021)
 
 4. Self-Employed
   [Lan Pya Taryar](https://play.google.com/store/apps/details?id=com.thawdezin.lanpyataryar) (လမ်းပြတာရာ)
@@ -27,6 +27,9 @@ After graduated, I’ve decided to choose my career life as [Mobile Developer](h
 5. Self-Employed
   [Lumbini](https://play.google.com/store/apps/details?id=com.thawdezin.lumbini)
   `A handy mobile app for Myanmar Buddhists`
+  
+6. iOS Developer
+  `iMyanmarHouse.com Co., Ltd`. (Nov 2019 to present)
 
 ### Contact
 
