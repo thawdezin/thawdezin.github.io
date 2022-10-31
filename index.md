@@ -29,7 +29,7 @@ After graduated, I’ve decided to choose my career life as [Mobile Developer](h
   `A handy mobile app for Myanmar Buddhists`
   
 6. iOS Developer
-  `iMyanmarHouse.com Co., Ltd`. (Nov 2019 to present)
+  `iMyanmarHouse.com Co., Ltd`. (July 2021 to present)
 
 ### Contact
 
