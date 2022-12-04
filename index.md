@@ -1,7 +1,7 @@
 ### Hi, I'm **Thaw De Zin** (​သော်ဒီဇင်)
 
 I am **Mobile Developer**. I love to develop Mobile applications using `SwiftUI`, `Flutter` and `Python`.
-I am graduated from [University of Technology (Yatanarpon Cyber City)](https://en.wikipedia.org/wiki/University_of_Technology,_Yadanabon_Cyber_City) in `2020 Feb (4th Batch) before Coup`– B.E (Information Science and Technology).
+I am graduated from [University of Technology (Yatanarpon Cyber City)](https://en.wikipedia.org/wiki/University_of_Technology,_Yadanabon_Cyber_City) in `2020 Feb (4th Batch)` [before Coup](https://en.wikipedia.org/wiki/2021_Myanmar_coup_d%27%C3%A9tat)– B.E (Information Science and Technology).
 
 ### About Me
 
