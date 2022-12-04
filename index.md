@@ -33,7 +33,7 @@ After graduated, I’ve decided to choose my career life as [Mobile Developer](h
 
 ### Contact
 
-You can reach me on my mobile number `+95 9 797 990 911`. or
+You can reach me on my mobile number `+95 9 797 990 910`. or
 
 1. [stackoverflow](https://stackoverflow.com/cv/thawdezin)
 2. [Twitter](https://twitter.com/thawdezin25)
