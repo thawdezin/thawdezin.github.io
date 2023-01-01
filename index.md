@@ -30,6 +30,7 @@ After graduated, I’ve decided to choose my career life as [Mobile Developer](h
   
 6. iOS Developer
   `iMyanmarHouse.com Co., Ltd`. (July 2021 to present)
+  
 
 ### Contact
 
@@ -39,6 +40,7 @@ You can reach me on my mobile number `+95 9 797 990 910`. or
 2. [Twitter](https://twitter.com/thawdezin25)
 3. [LinkedIn](https://www.linkedin.com/in/thawdezin/)
 4. [Instagram](https://www.instagram.com/thawdezin/)
+5. [facebook](https://www.facebook.com/thawdezin/)
 
 
 ### It's another thing to know how they all work together.
