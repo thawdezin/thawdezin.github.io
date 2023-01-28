@@ -31,10 +31,14 @@ After graduated, I’ve decided to choose my career life as [Mobile Developer](h
 6. iOS Developer
   `iMyanmarHouse.com Co., Ltd`. (July 2021 to present)
   
+7. Self-Employed
+  [Download Now](https://oizystool.netlify.app)
+  `Oizys DoS Attack Tool`
+  
 
 ### Contact
 
-You can reach me on my mobile number `+95 9 797 990 910`. or
+You can reach me on my email `thawdezin@proton.me`. or
 
 1. [stackoverflow](https://stackoverflow.com/cv/thawdezin)
 2. [Twitter](https://twitter.com/thawdezin25)
