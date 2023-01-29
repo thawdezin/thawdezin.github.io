@@ -1,13 +1,12 @@
 ### Hi, I'm **Thaw De Zin** (​သော်ဒီဇင်)
 
-I am **Mobile Developer**. I love to develop Mobile applications using `SwiftUI`, `Flutter` and `Python`.
-I am graduated from [University of Technology (Yatanarpon Cyber City)](https://en.wikipedia.org/wiki/University_of_Technology,_Yadanabon_Cyber_City) in `2020 Feb (4th Batch)` [before Coup](https://en.wikipedia.org/wiki/2021_Myanmar_coup_d%27%C3%A9tat)– B.E (Information Science and Technology).
+I am a **Mobile Developer** passionate about creating innovative mobile applications using `Flutter`, `Jetpack Compose` and `Python`. I graduated from [University of Technology (Yatanarpon Cyber City)](https://en.wikipedia.org/wiki/University_of_Technology,_Yadanabon_Cyber_City) in February 2020, as part of the 4th batch of the bachelor of engineering in Information Science and Technology program. The graduation was prior to the [2021 Myanmar coup d'état](https://en.wikipedia.org/wiki/2021_Myanmar_coup_d%27%C3%A9tat).
 
 ### About Me
 
-I've done my university projects using so many languages such as C, C++, Java, PHP, Python and MATLAB in the field of **Image, AI, Web, IoT, android, Big Data, High-performance computing, Web Scraping and Web Crawling.**
+During my university studies, I gained experience in a variety of programming languages, including C, C++, Java, PHP, Python, and MATLAB. My projects covered a range of fields, including **image processing, artificial intelligence, web development, the Internet of Things, Android development, big data, high-performance computing, web scraping and web crawling.**
 
-After graduated, I’ve decided to choose my career life as [Mobile Developer](https://www.linkedin.com/in/thawdezin/) by applying the theory and technologies that I studied in University to Mobile development. For the programming, I’ve learned so many languages, even `Assembly (NASM)` with compiler design and structure. But I’m in love with `Python` and `Dart`. For the mobile development, I’m tightly couple with `Flutter`. If I have some free time, I spent by time with `Cryptocurrency`,`Rust` and `Python`. 
+After graduation, I chose a career in [mobile development](https://www.linkedin.com/in/thawdezin/), utilizing the skills and knowledge I gained in university. My programming expertise spans multiple languages, including Assembly (NASM) with a focus on compiler design and structure. However, I have a strong affinity for `Python` and `Dart`, and I am proficient in `Flutter` for mobile development. In my free time, I enjoy exploring cryptocurrencies, as well as learning Rust and continuing to hone my `Python` skills.
 
 ### Application, Projects and Experience
 
@@ -40,13 +39,14 @@ After graduated, I’ve decided to choose my career life as [Mobile Developer](h
 
 You can reach me on my email `thawdezin@proton.me`. or
 
-1. [stackoverflow](https://stackoverflow.com/cv/thawdezin)
-2. [Twitter](https://twitter.com/thawdezin25)
-3. [LinkedIn](https://www.linkedin.com/in/thawdezin/)
-4. [Instagram](https://www.instagram.com/thawdezin/)
-5. [facebook](https://www.facebook.com/thawdezin/)
+1. [Personal Website](https://thawdezin.web.app)
+2. [Personal Website 2](https://thawdezin.netlify.app)
+3. [Twitter](https://twitter.com/thawdezin25)
+4. [LinkedIn](https://www.linkedin.com/in/thawdezin/)
+5. [Instagram](https://www.instagram.com/thawdezin/)
+6. [facebook](https://www.facebook.com/thawdezin/)
 
 
 ### It's another thing to know how they all work together.
 
-<video src="video.mp4" width="320" height="200" controls preload></video>
+<video src="video.mp4" width="50%" height="auto" controls preload></video>
