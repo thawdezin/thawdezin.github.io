@@ -30,9 +30,9 @@ After graduation, I chose a career in [mobile development](https://www.linkedin.
 6. iOS Developer
   `iMyanmarHouse.com Co., Ltd`. (July 2021 to present)
   
-7. Self-Employed
-  [Download Now](https://oizystool.netlify.app)
-  `Oizys DoS Attack Tool`
+7. Self-Employed `Oizys DoS Attack Tool`
+  [(Download Now)](https://oizystool.netlify.app)
+  
   
 
 ### Contact
@@ -41,10 +41,12 @@ You can reach me on my email `thawdezin@proton.me`. or
 
 1. [Personal Website](https://thawdezin.web.app)
 2. [Personal Website 2](https://thawdezin.netlify.app)
-3. [Twitter](https://twitter.com/thawdezin25)
-4. [LinkedIn](https://www.linkedin.com/in/thawdezin/)
-5. [Instagram](https://www.instagram.com/thawdezin/)
-6. [facebook](https://www.facebook.com/thawdezin/)
+3. [Youtube](https://youtube.com/@thawdezin) 
+4. [Twitter](https://twitter.com/thawdezin25)
+5. [LinkedIn](https://www.linkedin.com/in/thawdezin/)
+6. [Instagram](https://www.instagram.com/thawdezin/)
+7. [facebook](https://www.facebook.com/thawdezin/)
+8. [Tiktok](https://www.tiktok.com/@thawdezin/)
 
 
 ### It's another thing to know how they all work together.
