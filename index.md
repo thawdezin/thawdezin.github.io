@@ -51,8 +51,9 @@ You can reach me on my email `thawdezin@proton.me`. or
 
 ### It's another thing to know how they all work together.
 
-<video src="video.mp4" width="50%" height="auto" controls preload></video>
-<audio autoplay loop style="display:none;">
-  <source src="kmt400.mp3" type="audio/mpeg">
-</audio>
+<video src="video.mp4" width="50%" height="auto" controls preload autoplay></video>
+
+### This is my current favorite song.
+
+<video src="kmt400.mp3" width="50%" height="auto" controls preload autoplay></video>
 
