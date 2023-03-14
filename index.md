@@ -55,5 +55,5 @@ You can reach me on my email `thawdezin@proton.me`. or
 
 ### This is my current favorite song.
 
-<video src="kmt400.mp3" width="50%" height="auto" controls preload autoplay></video>
+<audio src="kmt400.mp3" controls preload autoplay></audio>
 
