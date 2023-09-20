@@ -6,7 +6,7 @@ I am **Mobile Developer** passionate about creating innovative mobile applicatio
 
 During my university studies, I gained experience in a variety of programming languages, including C, C++, Java, PHP, Python, and MATLAB. My projects covered a range of fields, including **image processing, artificial intelligence, web development, the Internet of Things, Android development, big data, high-performance computing, web scraping and web crawling.**
 
-After graduation, I chose a career in [mobile development](https://www.linkedin.com/in/thawdezin/), utilizing the skills and knowledge I gained in university. My programming expertise spans multiple languages, including Assembly (NASM) with a focus on compiler design and structure. However, I have a strong affinity for `Python` and `Dart`, and I am proficient in `Flutter` for mobile development. In my free time, I enjoy exploring cryptocurrencies, as well as learning Rust and continuing to hone my `Python` skills.
+After graduation, I chose a career in [mobile development](https://www.linkedin.com/in/thawdezin/), utilizing the skills and knowledge I gained in university. My programming expertise spans multiple languages, including Assembly (NASM) with a focus on compiler design and structure. However, I have a strong affinity for `Python` and `Dart`, and I am proficient in `Flutter` for mobile development. In my free time, I enjoy exploring cryptocurrencies, as well as learning `Flutter` and continuing to hone my `Python` skills.
 
 ### Application, Projects and Experience
 
