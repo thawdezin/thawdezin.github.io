@@ -17,7 +17,7 @@ After graduation, I chose a career in [mobile development](https://www.linkedin.
   `Koe Koe Tech Co., Ltd`. (Nov 2019 to April 2021)
   
 3. Junior iOS Developer
-  `Myanmar High Society Co., Ltd.`. (Nov 2021 to June 2022)
+  `Myanmar High Society Co., Ltd`. (Nov 2021 to June 2022)
 
 4. Self-Employed
   [Lan Pya Taryar](https://play.google.com/store/apps/details?id=com.thawdezin.lanpyataryar) (လမ်းပြတာရာ)
@@ -28,11 +28,13 @@ After graduation, I chose a career in [mobile development](https://www.linkedin.
   `A handy mobile app for Myanmar Buddhists`
   
 6. iOS Developer
-  `iMyanmarHouse.com Co., Ltd`. (July 2022 to Sept 2023)
+  `iMyanmarHouse.com Co., Ltd` (July 2022 to Sept 2023)
   
 7. Self-Employed `Oizys DoS Attack Tool`
   [(Download Now)](https://oizystool.netlify.app)
-  
+
+8. Senior Engineer
+  `Brycen Myanmar Co., Ltd.` (Oct 2023 to March 2023)
   
 
 ### Contact
