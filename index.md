@@ -34,7 +34,7 @@ After graduation, I chose a career in [mobile development](https://www.linkedin.
   [(Download Now)](https://oizystool.netlify.app)
 
 8. Senior Engineer
-  `Brycen Myanmar Co., Ltd.` (Oct 2023 to March 2023)
+  `Brycen Myanmar Co., Ltd.` (Oct 2023 to Present)
   
 
 ### Contact
