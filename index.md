@@ -35,6 +35,10 @@ After graduation, I chose a career in [mobile development](https://www.linkedin.
 
 8. Senior Engineer
   `Brycen Myanmar Co., Ltd.` (Oct 2023 to Present)
+
+9. Self-Employed
+   [DD BitePu](https://play.google.com/store/apps/details?id=com.thawdezin.bus_nexus_rader)
+   `DD BitePu (YBS App)`
   
 
 ### Contact
@@ -48,7 +52,7 @@ You can reach me on my email `thawdezin@duck.com`. or
 5. [LinkedIn](https://www.linkedin.com/in/thawdezin/)
 6. [Instagram](https://www.instagram.com/thawdezin/)
 7. [facebook](https://www.facebook.com/thawdezin/)
-8. [Tiktok](https://www.tiktok.com/@thawdezin/)
+8. [Tiktok](https://www.tiktok.com/@thawdezin24/)
 
 
 ### It's another thing to know how they all work together.
