@@ -53,6 +53,7 @@ You can reach me on my email `thawdezin@duck.com`. or
 6. [Instagram](https://www.instagram.com/thawdezin/)
 7. [facebook](https://www.facebook.com/thawdezin/)
 8. [Tiktok](https://www.tiktok.com/@thawdezin24/)
+9. [Threads](https://www.threads.net/@thawdezin)
 
 
 ### It's another thing to know how they all work together.
