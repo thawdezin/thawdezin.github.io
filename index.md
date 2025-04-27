@@ -40,9 +40,6 @@ After graduation, I chose a career in [mobile development](https://www.linkedin.
    [DD BitePu](https://play.google.com/store/apps/details?id=com.thawdezin.bus_nexus_rader)
    `DD BitePu (YBS App)`
 
-10. Learning Account
-    [Udemy](https://www.udemy.com/user/thaw-de-zin/)
-    `Flutter, Python, SwiftUI`
 
 ### Contact
 
@@ -57,6 +54,7 @@ You can reach me on my email `thawdezin@duck.com`. or
 7. [facebook](https://www.facebook.com/thawdezin/)
 8. [Tiktok](https://www.tiktok.com/@thawdezin24/)
 9. [Threads](https://www.threads.net/@thawdezin)
+10. [Udemy](https://www.udemy.com/user/thaw-de-zin/)
 
 
 ### It's another thing to know how they all work together.
