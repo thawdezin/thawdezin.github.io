@@ -1,4 +1,4 @@
-### Hi, I'm **Thaw De Zin** (​သော်ဒီဇင်)
+### Hi, I'm **Thaw De Zin** (​သော်ဒီဇင်) a.k.a Thaw Di Zin
 
 I am **Mobile Developer** passionate about creating innovative mobile applications using `Flutter`, `Jetpack Compose` and `Python`. I graduated from [University of Technology (Yatanarpon Cyber City)](https://en.wikipedia.org/wiki/University_of_Technology,_Yadanabon_Cyber_City) in February 2020, as part of the 4th batch of the `Bachelor of Engineering` in `Information Science and Technology` program. The graduation was prior to the [2021 Myanmar coup d'état](https://en.wikipedia.org/wiki/2021_Myanmar_coup_d%27%C3%A9tat).
 
