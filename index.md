@@ -39,7 +39,10 @@ After graduation, I chose a career in [mobile development](https://www.linkedin.
 9. Self-Employed
    [DD BitePu](https://play.google.com/store/apps/details?id=com.thawdezin.bus_nexus_rader)
    `DD BitePu (YBS App)`
-  
+
+10. Learning Account
+    [Udemy](https://www.udemy.com/user/thaw-de-zin/)
+    `Flutter, Python, SwiftUI`
 
 ### Contact
 
