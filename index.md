@@ -55,6 +55,7 @@ You can reach me on my email `thawdezin@duck.com`. or
 8. [Tiktok](https://www.tiktok.com/@thawdezin24/)
 9. [Threads](https://www.threads.net/@thawdezin)
 10. [Udemy](https://www.udemy.com/user/thaw-de-zin/)
+11. [Stackoverflow](https://www.udemy.com/user/thaw-de-zin)
 
 
 ### It's another thing to know how they all work together.
