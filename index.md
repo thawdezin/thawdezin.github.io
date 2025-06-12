@@ -16,7 +16,7 @@ During my university studies, I gained experience in a variety of programming la
 After graduation, I chose a career in [mobile development](https://www.linkedin.com/in/thawdezin/), utilizing the skills and knowledge I gained in university. My programming expertise spans multiple languages, including Assembly (NASM) with a focus on compiler design and structure. However, I have a strong affinity for `Python` and `Dart`, and I am proficient in `Flutter` for mobile development. In my free time, I enjoy exploring cryptocurrencies, as well as learning `Flutter` and continuing to hone my `Python` skills.  
 
 
-ဘွဲ့ရပြီးသည့်နောက်ပို်င်းတွင်၊ တက္ကသိုလ်ပညာရေးတွင် လေ့လာသင်ယူခဲ့သည့် ကျွမ်းကျင်မှုနှင့်အသိပညာများကို အသုံးပြု၍ [mobile development](https://www.linkedin.com/in/thawdezin/) အဖြစ် လုပ်ကိုင်ရန် ဆုံးဖြတ်ခဲ့ပါသည်။ Compiler design and structure(စက်နားလည်သောကုဒ်ပြောင်းလဲသည့်ဆော့ဝဲလ် ပုံစံနှင့်တည်ဆောက်ပုံ) ကို လေ့လာရာတွင် အသုံးချရသည့်  Assembly (NASM) ကဲ့သိုသော ကွန်ပျူတာဘာသာစကားများအထိ လေ့လာသင်ယူခဲ့ပါသည်။  သို့သော်, `Python` and `Dart`ကို ပိုမိုအားသန်သူ ဖြစ်သည်နှင့်အညီ ဖုန်းအသုံးချဆော့ဝဲအက်ပ် ရေးသားသည့် `Flutter` ကိုသာ အလွန်နှစ်သက်ပါသည်။ အားလပ်ချိန်များတွင်၊ `Python` ကို လေ့လာရင်း လုပ်ကြည့်လေ့ရှိပြီး၊ `Flutter` ဆက်လက်သင်ယူရင်းနဲ့ ခယဆ်ပဋိုကာယဏ်ဆီ (ဝှက်စာငွေကြေး)များကို လျှောက်ကြည့်ရတာ ကြိုက်နှစ်သက်ပါသည်။ 
+ဘွဲ့ရပြီးသည့်နောက်ပို်င်းတွင်၊ တက္ကသိုလ်ပညာရေးတွင် လေ့လာသင်ယူခဲ့သည့် ကျွမ်းကျင်မှုနှင့်အသိပညာများကို အသုံးပြု၍ [mobile development](https://www.linkedin.com/in/thawdezin/) အဖြစ် လုပ်ကိုင်ရန် ဆုံးဖြတ်ခဲ့ပါသည်။ Compiler design and structure(စက်နားလည်သောကုဒ်ပြောင်းလဲသည့်ဆော့ဝဲလ် ပုံစံနှင့်တည်ဆောက်ပုံ) ကို လေ့လာရာတွင် အသုံးချရသည့်  Assembly (NASM) ကဲ့သိုသော ကွန်ပျူတာဘာသာစကားများအထိ လေ့လာသင်ယူခဲ့ပါသည်။  သို့သော်, `Python` နဲ့ `Dart`ကို ပိုမိုအားသန်သူ ဖြစ်သည်နှင့်အညီ ဖုန်းအသုံးချဆော့ဝဲအက်ပ် ရေးသားသည့် `Flutter` ကိုသာ အလွန်နှစ်သက်ပါသည်။ အားလပ်ချိန်များတွင်၊ `Python` ကို လေ့လာရင်း လုပ်ကြည့်လေ့ရှိပြီး၊ `Flutter` ဆက်လက်သင်ယူရင်းနဲ့ ခယဆ်ပဋိုကာယဏ်ဆီ (ဝှက်စာငွေကြေး)များကို လျှောက်ကြည့်ရတာ ကြိုက်နှစ်သက်ပါသည်။ 
 
 
 ### Application, Projects and Experience (အက်ပ်၊ လုပ်ဆောင်မှုနှင့် အတွေ့အကြုံများ)
@@ -54,7 +54,8 @@ After graduation, I chose a career in [mobile development](https://www.linkedin.
 
 ### Contact (ဆက်သွယ်ရန်)
 
-You can reach me on my email `thawdezin@duck.com`. or 
+You can reach me on my email `thawdezin@duck.com`. or   
+
 `thawdezin@duck.com` အီးမေးလ်မှတဆင့် ဆက်သွယ်နိုင်ပါသည်။​ (သို့မဟုတ်)
 
 1. [Personal Website](https://thawdezin.web.app)
