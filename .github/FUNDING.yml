@@ -1,0 +1,7 @@
+# Sponsor button config — https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
+#
+# Tips are never required. The apps stay free.
+# All payment details live on one page so nothing sensitive sits inside a repo.
+
+custom:
+  - "https://thawdezin.com/donate.html"
