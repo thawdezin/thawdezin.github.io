@@ -40,16 +40,15 @@ After graduation, I chose a career in [mobile development](https://www.linkedin.
   
 6. iOS Developer
   `iMyanmarHouse.com Co., Ltd` (July 2022 to Sept 2023)
-  
-7. Self-Employed `Oizys DoS Attack Tool`
-  [(Download Now)](https://oizystool.netlify.app)
 
-8. Senior Engineer
+7. Senior Engineer
   `Brycen Myanmar Co., Ltd.` (Oct 2023 to July 2025)
 
 9. Self-Employed
    [DD BitePu](https://play.google.com/store/apps/details?id=com.thawdezin.bus_nexus_rader)
    `DD BitePu (YBS App)`
+
+10. And many more!!!
 
 
 ### Contact (ဆက်သွယ်ရန်)
